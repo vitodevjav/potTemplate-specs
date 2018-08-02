@@ -1,0 +1,6 @@
+framework module PodTemplate {
+  umbrella header "PodTemplate-umbrella.h"
+
+  export *
+  module * { export * }
+}

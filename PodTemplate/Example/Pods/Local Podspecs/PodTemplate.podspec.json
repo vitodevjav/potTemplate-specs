@@ -1,0 +1,23 @@
+{
+  "name": "PodTemplate",
+  "version": "0.1.0",
+  "summary": "Test pod for learning how to manage own pods",
+  "description": "Very long description that explains purposes of creating this awesome pod. And some aditional explanaiton of how to use it and its value for comunity.",
+  "homepage": "https://github.com/vitodevjav/PodTemplate",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vitodevjav": "VKazakevich@qulix.com"
+  },
+  "source": {
+    "git": "https://github.com/vitodevjav/PodTemplate.git",
+    "tag": "0.1.0"
+  },
+  "swift_version": "4.0",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodTemplate/Classes/**/*"
+}
